@@ -1332,7 +1332,8 @@
     {"account":"lokiyngling","reason":"","validator":"smartsteem"},
     {"account":"vegawesome","reason":"","validator":"smartsteem"},
     {"account":"ratatoskwestgoth","reason":"","validator":"smartsteem"},
-    {"account":"askskugge","reason":"","validator":"smartsteem"}
-    {"account":"lamari","reason":"plagiarism","validator":"jaguar.force"}
+    {"account":"askskugge","reason":"","validator":"smartsteem"},
+    {"account":"lamari","reason":"plagiarism","validator":"jaguar.force"},
+    {"account":"coininstant","reason":"promoAbuse","validator":"smartsteem"}
   ]
 }
