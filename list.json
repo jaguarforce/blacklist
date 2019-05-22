@@ -1334,6 +1334,7 @@
     {"account":"ratatoskwestgoth","reason":"","validator":"smartsteem"},
     {"account":"askskugge","reason":"","validator":"smartsteem"},
     {"account":"lamari","reason":"plagiarism","validator":"jaguar.force"},
-    {"account":"coininstant","reason":"promoAbuse","validator":"smartsteem"}
+    {"account":"coininstant","reason":"promoAbuse","validator":"smartsteem"},
+    {"account":"crystalliu825","reason":"promoAbuse","validator":"smartsteem"}
   ]
 }
