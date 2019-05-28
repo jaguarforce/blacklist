@@ -1274,6 +1274,7 @@
     {"account":"lamari","reason":"plagiarism","validator":"jaguar.force"},
     {"account":"coininstant","reason":"promoAbuse","validator":"smartsteem"},
     {"account":"crystalliu825","reason":"promoAbuse","validator":"smartsteem"},
-    {"account":"kasarwal","reason":"spam","validator":"smartsteem"}
+    {"account":"kasarwal","reason":"spam","validator":"smartsteem"},
+    {"account":"conformity","reason":"promoAbuse","validator":"smartsteem"}
   ]
 }
