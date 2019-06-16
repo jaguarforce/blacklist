@@ -1278,6 +1278,7 @@
     {"account":"conformity","reason":"promoAbuse","validator":"smartsteem"},
     {"account":"jazminmillion","reason":"plagiarism","validator":"anthonyadavisii"},
     {"account":"mehta","reason":"promoAbuse","validator":"smartsteem"},
-    {"account":"steem-gallery","reason":"plagiarism","validator":"smartsteem"}
+    {"account":"steem-gallery","reason":"plagiarism","validator":"smartsteem"},
+    {"account":"prasasth","reason":"plagiarism","validator":"smartsteem"}
   ]
 }
