@@ -1280,6 +1280,7 @@
     {"account":"mehta","reason":"promoAbuse","validator":"smartsteem"},
     {"account":"steem-gallery","reason":"plagiarism","validator":"smartsteem"},
     {"account":"prasasth","reason":"plagiarism","validator":"smartsteem"},
-    {"account":"andhovesyan","reason":"promoAbuse","validator":"anthonyadavisii"}
+    {"account":"andhovesyan","reason":"promoAbuse","validator":"anthonyadavisii"},
+    {"account":"nadin3","reason":"plagiarism","validator":"jaguar.force"}
   ]
 }
