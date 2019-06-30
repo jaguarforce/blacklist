@@ -1281,6 +1281,7 @@
     {"account":"steem-gallery","reason":"plagiarism","validator":"smartsteem"},
     {"account":"prasasth","reason":"plagiarism","validator":"smartsteem"},
     {"account":"andhovesyan","reason":"promoAbuse","validator":"anthonyadavisii"},
-    {"account":"nadin3","reason":"plagiarism","validator":"jaguar.force"}
+    {"account":"nadin3","reason":"plagiarism","validator":"jaguar.force"},
+    {"account":"steemersayu907","reason":"promoAbuse","validator":"smartsteem"}
   ]
 }
