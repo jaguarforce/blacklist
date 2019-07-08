@@ -1286,6 +1286,7 @@
     {"account":"dongkong","reason":"promoAbuse","validator":"smartsteem"},
     {"account":"mahdier","reason":"promoAbuse","validator":"smartsteem"},
     {"account":"aoecoin","reason":"scamDanger","validator":"smartsteem"},
-    {"account":"zaku","reason":"promoAbuse","validator":"smartsteem"}
+    {"account":"zaku","reason":"promoAbuse","validator":"smartsteem"},
+    {"account":"again2017","reason":"spam","validator":"smartsteem"}
   ]
 }
