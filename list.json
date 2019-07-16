@@ -1288,5 +1288,6 @@
     {"account":"aoecoin","reason":"scamDanger","validator":"smartsteem"},
     {"account":"zaku","reason":"promoAbuse","validator":"smartsteem"},
     {"account":"again2017","reason":"spam","validator":"smartsteem"}
+    {"account":"oendertuerk","reason":"plagiarism","validator":"jaguar.force"},
   ]
 }
